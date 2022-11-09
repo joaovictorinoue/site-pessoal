@@ -27,7 +27,7 @@ body{
 
 .subtitulo{
     font-size: 25px;
-    padding-top: 200px;
+    padding-top: 150px;
 }
 
 .nome{
@@ -41,6 +41,39 @@ body{
 .meio{
     text-align: center;
     font-size: 13px;
-    padding-bottom: 100px;
+    padding-bottom: 70px;
 }
 
+
+.imagens-adocao{
+    padding-left: 27px;
+}
+
+.imagens-bolo{
+    padding-left: 110px;
+}
+
+.imagens-lanchonete{
+    padding-left: 20px;
+}
+
+.imagens{
+    display: flex;
+    padding-bottom: 100px;
+    padding-left: 324px;
+}
+
+.adocao{
+    width: 233px;
+    padding-right: 100px;
+}
+
+.loja-bolo{
+    width: 408px;
+    padding-right: 100px;
+}
+
+.lanchonete{
+    width: 249px;
+    padding-right: 100px;
+}
