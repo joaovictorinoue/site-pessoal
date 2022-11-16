@@ -15,11 +15,6 @@ body{
 
 }
 
-.main{
-    background-color: black;
-    background: rgba(0, 0, 0, 0.5);
-}
-
 .titulo{
     text-align: center;
     padding-bottom: 30px;
